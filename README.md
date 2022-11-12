@@ -1,7 +1,9 @@
 # Ensemble Kernel Learning Model for Prediction of Time Series Based on the Support Vector Regression
 Time series prediction based on support vector regression
 
-article address: https://jsdp.rcisp.ac.ir/article-1-1162-fa.html
+This code was used in my paper whose link is in the following.
+
+Paper link: [Ensemble Kernel Learning Model for Prediction of Time Series Based on the Support Vector Regression and Meta Heuristic Search](https://jsdp.rcisp.ac.ir/article-1-1162-fa.html)
 
 # Background
 Time series prediction is a process which predicted future system values based on information obtained from past and present data points. 
